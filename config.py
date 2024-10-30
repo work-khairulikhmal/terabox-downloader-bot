@@ -1,7 +1,7 @@
-API_ID = 123456  # api id
-API_HASH = "ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # api hash
+API_ID = 22533535  # api id
+API_HASH = "e42d7ae7aaad687d7d7777709932d590"  # api hash
 
-BOT_TOKEN = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"  # bot token
+BOT_TOKEN = "7607541872:AAHnQipKGAbTfwcz8KhC_PH4DeP8tDvAM8o"  # bot token
 
 
 # REDIS
@@ -9,15 +9,15 @@ HOST = "localhost"  # redis host uri
 PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1002282056129  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
-COOKIE = ""
-ADMINS = [1317173146]
+COOKIE = "{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36","www.terabox.com":{"www.terabox.com":{"csrfToken":{"domain":"www.terabox.com","name":"csrfToken","path":"/","secure":false,"value":"qThm4nF3lM-ouEyF1H48J8cf"},"ndut_fmt":{"domain":"www.terabox.com","expirationDate":1732869739,"name":"ndut_fmt","path":"/","secure":false,"value":"743C0E0701A3CC6D7A03C56E804686D921CC893267A2C7F4A131212F9763F32D"}}},".terabox.com":{".terabox.com":{"browserid":{"domain":".terabox.com","expirationDate":1735461657.949943,"name":"browserid","path":"/","secure":false,"value":"uXmh7Kp0Eaw7Luuhqw838lpFRFDaPZqG1jK67qkM8XNRdXqqHgzAqj80h4o="},"lang":{"domain":".terabox.com","expirationDate":1732869736.674925,"name":"lang","path":"/","secure":false,"value":"en"},"__bid_n":{"domain":".terabox.com","expirationDate":1764837739.612461,"name":"__bid_n","path":"/","secure":false,"value":"192dc960690e9dd3034207"},"ab_sr":{"domain":".terabox.com","expirationDate":1730284942.261521,"name":"ab_sr","path":"/","secure":true,"value":"1.0.1_MjI2MTQxYWY1NTQ2Njc3MWY2MjY0NjU3NDdjMGJlM2UxMTE3YzI3YWE3NmVkZWY0ZmExMjIzODY5ZjU0OTU2YjEwNzlmZDc3Nzc2MmVjNDY2NDJmMTA0OTFiMTgwYjU0NDk5OWI5YTQxZWY0YmYzOTg0ZjgzNzFhM2ZjNDQxYWI1YmZhYjYyNDFlNjdmOTMxNzg2NjE1Y2ZhNGFmYTZjMQ=="},"ndus":{"domain":".terabox.com","expirationDate":1761813736.259217,"name":"ndus","path":"/","secure":true,"value":"YSstY3yteHuirxUKPyN-qMfvN19khcQ_TMnmy5Uw"},"_ga_06ZNKL8C2E":{"domain":".terabox.com","expirationDate":1764837742.242704,"name":"_ga_06ZNKL8C2E","path":"/","secure":false,"value":"GS1.1.1730277741.1.0.1730277742.59.0.0"},"_ga":{"domain":".terabox.com","expirationDate":1764837742.032429,"name":"_ga","path":"/","secure":false,"value":"GA1.1.665152539.1730277742"},"ab_ymg_result":{"domain":".terabox.com","name":"ab_ymg_result","path":"/","secure":false,"value":"{\"data\":\"4cb5ea761a025c7f897c13404b078af9f6b32a05ebace334286f57de867da2f437285de845f86677052a99a56e60e4019998d7bbb59a430ccb99e5477932fc7ffbe261c7bb7badf41df7e2b50f7b58efbfe7be4b12dd0677c5e18578ca7a6179c54d8e8191b2e4b36d7b29e68b9ade126aed168e0709adc636bec5e40824aa2c\",\"key_id\":\"66\",\"sign\":\"e5adbad4\"}"}}},".ymg-api.terabox.com":{".ymg-api.terabox.com":{"ab_jid":{"domain":".ymg-api.terabox.com","expirationDate":1764837742.261348,"name":"ab_jid","path":"/","secure":true,"value":"6971f9be65daef0a9c05567e8d2c715dce06"},"ab_bid":{"domain":".ymg-api.terabox.com","expirationDate":1764837742.261462,"name":"ab_bid","path":"/","secure":true,"value":"f9be65daef0a9c05567e8d2c715dce066f77"}}},"accounts.google.com":{"accounts.google.com":{"__Host-GAPS":{"domain":"accounts.google.com","expirationDate":1764075302.13975,"name":"__Host-GAPS","path":"/","secure":true,"value":"1:Q2GJXmlORs4gVGlo9GJMVMk36dmIoA:hPl9pu4VF86VpFnv"}}},".google.com":{".google.com":{"SNID":{"domain":".google.com","expirationDate":1746087491.16885,"name":"SNID","path":"/verify","secure":true,"value":"AFAt11qAYhGFLc7KZdAlex9eOP2nYxESr73j0RRR8c2tDFAVb0G0uq_SKbrnM3cBl6bUxhSKVBherdXpW6jyRuNBVTWBWFzV3Q"},"AEC":{"domain":".google.com","expirationDate":1745066380.679522,"name":"AEC","path":"/","secure":true,"value":"AVYB7cqqgOfiAqvFG21oOfg9u6NaO6U7qvd8fh6EawDHpqSlLFPsx0TS2A"},"NID":{"domain":".google.com","expirationDate":1746087506.424141,"name":"NID","path":"/","secure":true,"value":"518=Xz2tC5Oh44cl8g73PQMNZUtKfXCbDkGpdEGd4qQmgo8podOl9YwJOPNduI2KiTwMzYsAvsA-UVSJrlsZtw6RuuAaVB5EDILnApKDoj8nY3gL3CRizI6h-Kz7jBRAZrBYykuf3-c2NV0ac9iTjBaFEP2m79lTkUmk8aML7OcgKiBElWk5YiOAWWMbcqILyJIZd4PME5MieU8IyEoD4wi7Z_eNA1BIiQb2"}}},".chromewebstore.google.com":{".chromewebstore.google.com":{"_ga":{"domain":".chromewebstore.google.com","expirationDate":1764837629.627652,"name":"_ga","path":"/","secure":false,"value":"GA1.1.1242197661.1729514961"},"_ga_KHZNC1Q6K0":{"domain":".chromewebstore.google.com","expirationDate":1764837644.629917,"name":"_ga_KHZNC1Q6K0","path":"/","secure":false,"value":"GS1.1.1730277629.2.0.1730277644.0.0.0"}}},"chromewebstore.google.com":{"chromewebstore.google.com":{"OTZ":{"domain":"chromewebstore.google.com","expirationDate":1732106961,"name":"OTZ","path":"/","secure":true,"value":"7786849_24_24__24_"}}},"www.google.com":{"www.google.com":{"DV":{"domain":"www.google.com","expirationDate":1730278257,"name":"DV","path":"/","secure":false,"value":"w71TB_pfZGQcEKMYZTqdNnFasFzJLRk"}}},".doubleclick.net":{".doubleclick.net":{"ar_debug":{"domain":".doubleclick.net","expirationDate":1732863419.247087,"name":"ar_debug","path":"/","secure":true,"value":"1"},"IDE":{"domain":".doubleclick.net","expirationDate":1764826506.7649,"name":"IDE","path":"/","secure":true,"value":"AHWqTUmHZzbv4xGQvS4U_MZ4rM5UK4vI0MOVoxNye21s0qT3RwO8tyUCsAL6ymb59qA"}}}}"
+ADMINS = [6872258796]
 
 
-BOT_USERNAME = "teraboxdown_bot"
+BOT_USERNAME = "TG_TeraboxDW_Bot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@RoldexVerse"
+FORCE_LINK = "@MisterKarlosChannel"
 
 PUBLIC_EARN_API = ""  # https://publicearn.com/api
